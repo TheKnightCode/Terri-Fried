@@ -1,4 +1,7 @@
-This fork is a port of Terri-Fried, a game by PolyMars for the Xbox 360 made by me. Everything below in this README.md file is the original description.
+This fork is a port of Terri-Fried, a game by PolyMars for the Xbox 360 made by me.
+The port is based of the Windows, and the Gamecube version of the game.
+
+Everything below in this README.md file is the original description.
 
 # Terri-Fried
 
